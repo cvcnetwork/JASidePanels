@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/cvcnetwork/JASidePanels"
   s.license      = { :type => "MIT", :file => "README.markdown" }
-  s.authors      = { "Jesse Andersen": "gotosleep@gmail.com" }
+  s.authors      = { "Jesse Andersen" => "gotosleep@gmail.com" }
   s.platform     = :ios, "5.0"
   s.source       = { :git => "https://github.com/cvcnetwork/JASidePanels.git", :tag => "1.3.3" }
   s.source_files = "JASidePanels/Source/*"
